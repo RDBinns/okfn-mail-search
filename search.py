@@ -53,6 +53,8 @@ def keyCheck(messageUrl, keyword):
 		with open ('%s_%s_%s.html' % (keyword, year, month), 'a') as results:
 			results.write(result)
 		print 'found %s in %s' % (keyword, messageUrl)
+		with open ("README.md", 'a') as readme:
+			readme.write("[%s_%s_%s.html](http://rdbinns.github.io/okfn-mail-search/%s_%s_%s.html)\n" % (keyword, year, month, keyword, year, month))
 	else:
 		pass
 
