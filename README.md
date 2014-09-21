@@ -11,26 +11,5 @@ I wanted a way to quickly see who in the open knowledge community has been discu
 
 ### Latest crawls
 
-[anonym_2014_July.html](http://rdbinns.github.io/okfn-mail-search/anonym_2014_July.html)
-
-[privacy_2014_July.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_July.html)
-
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
-[privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
 [privacy_2014_August.html](http://rdbinns.github.io/okfn-mail-search/privacy_2014_August.html)
 [anonym_2014_August.html](http://rdbinns.github.io/okfn-mail-search/anonym_2014_August.html)
